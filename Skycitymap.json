@@ -1,0 +1,150 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": [
+    {
+      "id": 0,
+      "name_skin": "Sky and Milhonario",
+      "skin_url": "https://lh3.googleusercontent.com/OASICDlGq5NwcKW5ECwkUfuBBSVSPhK5JteokQ2-wHHQZfSRYj1lzS8pZ3Lxhbb8gpYeyYEP6A4y9k0MnYDuRk0Kuo_LtkQv6w",
+      "view_skin": "https://lh3.googleusercontent.com/ss5V9q8-LJe_47dGv61xsdMn5MRgYD_yvanKyBSwGvzaQ0SYJrCPh2ps66tahmpukO5dHNs5H7BWnc2pPggnJ82kbvU5sf2aQB0"
+    },
+	{
+      "id": 0,
+      "name_skin": "no man sky",
+      "skin_url": "https://lh3.googleusercontent.com/IzEZ6WxzcAQgjBZ8OrtthpXxFSa7KsUtUpGe1dHq05n_EAOFJjBcCKYkwEoVIcE_jJ1hjTQbkKg5weRWkPv_GYNBRlMUt-dcHGs",
+      "view_skin": "https://lh3.googleusercontent.com/KEZSgNE56mKFFj8XPa9bRTVZZwppFDabCJbbwGPRHboWLRADu6dqBbo25gVAqcAEkmfTfGoPl69mPjAysL1ooSMLM-2XhXlGeAs"
+    },
+	{
+      "id": 0,
+      "name_skin": "Golden sky",
+      "skin_url": "https://lh3.googleusercontent.com/AJyvcbleb8k6o20phZNMaGRLRTSQhqau74IYO7vkHOwyDI6dkHq-hqLxSJvLKd1kDpVBLl6W9l3StM7s7257vXa8Xc3jQHAwyA",
+      "view_skin": "https://lh3.googleusercontent.com/qHMEE07f93KSXHgr-vlInpliYbjNoJAExr6rr1omiIzJeedz82j9gvsRxN9_ec4EZwCySEMJGqWSFDmZxxmmto38rFs87SpboCA"
+    },
+	{
+      "id": 0,
+      "name_skin": "version sky",
+      "skin_url": "https://lh3.googleusercontent.com/cWsEqR6ZsnT6vTfP4lkusZTz6RrRUNcDC5_X8oOY_vuzzrCdKFk5zzkc3eZ_MqcJOB5PD8rVe21oknJLXoIeV4i89byU3Bo67gg",
+      "view_skin": "https://lh3.googleusercontent.com/yesjjFWMx0_1pmNWx6ZBpWaBA8kM0X11iFKd08TgSy1nU-dzh9v28lmi5Edyh-SEyrzTZu0DLvfXqOgNQOnIzr-5b1KQK7D65TQ"
+    },
+	{
+      "id": 0,
+      "name_skin": "major Sky",
+      "skin_url": "https://lh3.googleusercontent.com/PiOSQbxVFfdbHQAlHyfBQKTaMDNrQ0a-JCQRcb6pXhcpb5_cjSQ_3MQBlRfr0FhYgYspVSyWx0dcM2-kt1wzkifQPc_BDdYJCmQ",
+      "view_skin": "https://lh3.googleusercontent.com/ACl8x3LC3Jcv8824h_3_x3V-BPuNU2LCCfKnzqpbmIWTOtCaHdzKOKGQa576by4g5-F97aJko5bQGHfE6TuHWno9DAyDqLFPuA"
+    },
+	{
+      "id": 0,
+      "name_skin": "Sky pommel",
+      "skin_url": "https://lh3.googleusercontent.com/02rvC5wm1wgiCsinPRcEUudmSMwK6xmREULVTuFxlV-r8a6eTsXqmNUTCoFhe7EMts3cFplBa1QFM6pGXQl01w4",
+      "view_skin": "https://lh3.googleusercontent.com/nDuNH2WRinVNOEorNzAEN0RiBqleLz-EhMM_R2ries2v32HrY2gXsVxNTvao9jTEV4aUqhp2-XCzBkb3Fw2qAQ"
+    },
+	{
+      "id": 0,
+      "name_skin": "im on the sky",
+      "skin_url": "https://lh3.googleusercontent.com/gdOrjbkKpt9GoF1t5J9DPB8UmtaxKn0GKJe-ceQXh2h0jR2vHH5P_RHTVc1__lUIt1T03jJFh_xwlV_EZPklYpYl3MnU-iVHjw",
+      "view_skin": "https://lh3.googleusercontent.com/MNf6m84cjckk-SzW0jmIZbXUag9Dp1zPlmW4yBbxGPIoVjhh2c-dRIVmPSgmtavv8a6cFlW_cQqbrzc4a35kcgjSc4hHybuD0Q"
+    },
+	{
+      "id": 0,
+      "name_skin": "sky and earth",
+      "skin_url": "https://lh3.googleusercontent.com/SNz_7MPmaQz-iyJkDjhyCQeR4zz_tUiZoQhq9mdf3eLd-zt14_-JjDbU8cMjJcBXaimZ8XH87qw6aCAYn-sBS6ivgLpL7CVrSXk",
+      "view_skin": "https://lh3.googleusercontent.com/_Pf53mdQ_VE3119KzX8JHIGNDBnSXfz5rXKE6OMpxBOxSLFztpss5kxIo7tNcb4NikmbY6WPiuoYYMYGCHJiTLQ8ucagWmwpCYc"
+    }
+  ],
+  "Skin-Pack": [
+    {
+      "id": 0,
+      "name_skin": "Eevee FBI",
+      "skin_url": "https://archive.org/download/SkinPack/SkinPack/Eevee%20FBI.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/101313/100/image_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    },
+    {
+      "id": 0,
+      "name_skin": "Steve and Alex Holding",
+      "skin_url": "https://archive.org/download/SkinPack/SkinPack/Steve%20and%20Alex%20Holding%20V1.6.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/96835/101/steve-and-alex-holding_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    },
+    {
+      "id": 0,
+      "name_skin": "Pokemon Caracter",
+      "skin_url": "https://archive.org/download/SkinPack/SkinPack/Pokmon_Trainers_Boys_19.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/100014/101/treinadores_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    }
+  ],
+  "Addons": [
+    {
+      "id":1,
+      "name_add":"Advancement Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/3advancement/AdvancementPack%20%5BBP%5D.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/3advancement/AdvancementPack%20%5BRP%5D.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/3advancement/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":2,
+      "name_add":"Aether Dimension Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/4aether/AetherBeha.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/4aether/AetherReso.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/4aether/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":3,
+      "name_add":"Armor Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/6armor/More%20Armor_behavior_pack.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/6armor/More%20Armor_resource_pack.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/6armor/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    }
+  ],
+  "Maps": [
+    {
+      "id": 0,
+      "name_map": "Cloud City",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2023/02/territory-sky-city-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/06-02-2023/cloud-city.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },{
+      "id": 0,
+      "name_map": "Sky World",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2023/02/structures-sky-city-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/06-02-2023/skyworld.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "Villa Sky",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2023/02/houses-sky-city-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/06-02-2023/villa-sky.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    }
+  ]
+}

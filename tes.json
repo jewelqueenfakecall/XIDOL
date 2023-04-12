@@ -1,0 +1,121 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "Batman",
+      "skin_url": "https://aliendro.id/uploads/demo/premiummods/batman_skin.png",
+      "view_skin": "https://aliendro.id/uploads/demo/premiummods/batman_view.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "Captain Marvel",
+      "skin_url": "https://lh3.googleusercontent.com/OfCeIDybTytw5cqRZlaVfiiAMMS-i3WiiRveFS6dxdQoprJvqJEcYWf-mfbL9B2gCg6USEnrj2ANuhd79h3EeQ",
+      "view_skin": "https://lh3.googleusercontent.com/3iQQ-SEjTFADYrVQHTttXDGNvGALTSfJcwa6uGMJb75SXsqbE7kUmUpXl3iWtEdhYu3NYLjBH9tq_c8FahdLIw"
+    },
+    {
+      "id": 3,
+      "name_skin": "Ironman",
+      "skin_url": "https://lh3.googleusercontent.com/cw7kMNis22WSYQt3ald4CE0MGDIHEz6F117yi5siSfiADir_zYIsC6zT6K7rp2Zwn9aAXe841ULg_MUoAqpFWOM",
+      "view_skin": "https://lh3.googleusercontent.com/WRRFomiJcvyiCIAMZge6XfidYx8697Xq-dxs5MjP-APEoK0oVLXPUPNsBrhFYCJkDjPEQcj5kwUPibx7fGCbGgo"
+    }
+  ],
+  "Skin-Pack": [
+    {
+      "id": 0,
+      "name_skin": "Eevee FBI",
+      "skin_url": "https://archive.org/download/SkinPack/SkinPack/Eevee%20FBI.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/101313/100/image_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    },
+    {
+      "id": 0,
+      "name_skin": "Steve and Alex Holding",
+      "skin_url": "https://archive.org/download/SkinPack/SkinPack/Steve%20and%20Alex%20Holding%20V1.6.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/96835/101/steve-and-alex-holding_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    },
+    {
+      "id": 0,
+      "name_skin": "Pokemon Caracter",
+      "skin_url": "https://archive.org/download/SkinPack/SkinPack/Pokmon_Trainers_Boys_19.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/100014/101/treinadores_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    }
+  ],
+  "Addons": [
+    {
+      "id":1,
+      "name_add":"Advancement Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/3advancement/AdvancementPack%20%5BBP%5D.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/3advancement/AdvancementPack%20%5BRP%5D.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/3advancement/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":2,
+      "name_add":"Aether Dimension Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/4aether/AetherBeha.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/4aether/AetherReso.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/4aether/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":3,
+      "name_add":"Armor Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/6armor/More%20Armor_behavior_pack.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/6armor/More%20Armor_resource_pack.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/6armor/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    }
+  ],
+  "Maps": [
+    {
+      "id": 0,
+      "name_map": "City Hall Hengshui",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2023/02/building-city-hall-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/06-02-2023/Hangshui-City.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "City Hall Capital",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2023/02/churches-city-hall-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/06-02-2023/Capital.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "City Hall Ashby",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2023/02/roads-city-hall-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/06-02-2023/Ashby.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    }
+  ]
+}
